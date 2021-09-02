@@ -1,0 +1,2 @@
+module Nota_Fiscal {
+}
